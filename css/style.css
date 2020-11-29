@@ -23,3 +23,7 @@ h2 {
 h3 {
   color: #709fb0;
 }
+.pic{
+  width:80%;
+  border: 3px solid grey;
+}
